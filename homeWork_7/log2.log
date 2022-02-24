@@ -1,0 +1,11 @@
+[01/Dec/2021:16:37:08] Warning: TLS is enabled, but certificate and private key do not exists, generating a self-signed certificate...
+[01/Dec/2021:16:37:08] Created self-signed certificate and private key
+[01/Dec/2021:16:37:08] Startup
+[01/Dec/2021:16:37:08] Could not load intermediate certificate '', certificate skipped. SSL may not work correctly for all browsers
+[01/Dec/2021:16:37:08] Could not load intermediate certificate '', certificate skipped. SSL may not  correctly for all browsers
+[01/Dec/2021:16:37:08] Game profile path: C:/Users//Documents/My Games/
+[01/Dec/2021:16:37:24] Initializing mod download manager... (16240.48) ms
+[01/Dec/2021:16:37:26] Build initial mod meta cache... (976.76) ms
+[01/Dec/2021:16:37:27] URL(s): http://192.168.
+[01/Dec/2021:16:37:27]         https://192.168.
+[01/Dec/2021:16:37:27] Please refer to config file for initial admin .
